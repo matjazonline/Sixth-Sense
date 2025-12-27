@@ -1,0 +1,8 @@
+{
+  "name": "Sixth Sense",
+  "description": "Sixth Sense: Your AI Concierge for luxury Dubai dining.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
